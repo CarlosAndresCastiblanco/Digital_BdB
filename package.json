@@ -1,0 +1,25 @@
+{
+  "name": "Challenge BDB",
+  "version": "1.0.0",
+  "description": "Testing challenge",
+  "main": "1.0.0",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npm run test:unit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosAndresCastiblanco/Digital_BdB.git"
+  },
+  "keywords": [
+    "data"
+  ],
+  "author": "Carlos Andrés Castiblanco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarlosAndresCastiblanco/Digital_BdB/issues"
+  },
+  "homepage": "https://github.com/CarlosAndresCastiblanco/Digital_BdB#readme"
+}
